@@ -1,10 +1,10 @@
 VGA Specification Implementation
-Usage:
-  $make clk        //compile clock divider and its testbench
-  $make h_sync     //compile h_syncer and its testbench
-  $make v_sync     //compile v_syncer and its testbench
+Usage: <br />
+  $make clk        //compile clock divider and its testbench <br />
+  $make h_sync     //compile h_syncer and its testbench <br />
+  $make v_sync     //compile v_syncer and its testbench <br />
 
-Complete module is yet to be tested on a real device.
+Complete module is yet to be tested on a real device. <br />
 
 Links
 1. http://www.xilinx.com/support/documentation/boards_and_kits/ug230.pdf
